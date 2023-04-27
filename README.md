@@ -1,5 +1,5 @@
 ### Geometric transformation Assignment
-![](https://imgur.com/a/wRBCd4q)
+![Matlab gui](gui.png)
 A matlab gui that shows geometric transformations in two dimension. Transformations include translate and scale. 
 
 ### How it works
