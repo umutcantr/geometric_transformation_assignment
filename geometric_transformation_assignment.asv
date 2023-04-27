@@ -1,6 +1,4 @@
-% Author: Umutcan Genç
-% A matlab gui that shows geometric transformations
-% Github: https://github.com/umutcantr/geometric_transformation_assignment
+Gith
 
 function transformation
     figure1 = uifigure('Name','Rectangle Translation');
